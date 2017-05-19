@@ -1,1 +1,1 @@
-../../../../../../../executive/cvmx-fpa-resource.c
+/opt/octeon/executive/cvmx-fpa-resource.c

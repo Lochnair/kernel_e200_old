@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-sata-defs.h
+/opt/octeon/executive/cvmx-sata-defs.h

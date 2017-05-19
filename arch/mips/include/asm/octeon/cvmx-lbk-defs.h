@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-lbk-defs.h
+/opt/octeon/executive/cvmx-lbk-defs.h

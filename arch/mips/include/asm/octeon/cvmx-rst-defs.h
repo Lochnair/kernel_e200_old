@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-rst-defs.h
+/opt/octeon/executive/cvmx-rst-defs.h

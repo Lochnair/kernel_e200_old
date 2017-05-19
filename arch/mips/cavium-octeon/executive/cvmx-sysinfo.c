@@ -1,1 +1,1 @@
-../../../../../../../executive/cvmx-sysinfo.c
+/opt/octeon/executive/cvmx-sysinfo.c

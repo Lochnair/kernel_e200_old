@@ -1,1 +1,1 @@
-../../../../../../../../executive/octeon-feature.h
+/opt/octeon/executive/octeon-feature.h

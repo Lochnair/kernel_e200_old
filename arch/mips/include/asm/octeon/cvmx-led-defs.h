@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-led-defs.h
+/opt/octeon/executive/cvmx-led-defs.h

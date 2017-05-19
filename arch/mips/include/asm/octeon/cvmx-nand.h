@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-nand.h
+/opt/octeon/executive/cvmx-nand.h

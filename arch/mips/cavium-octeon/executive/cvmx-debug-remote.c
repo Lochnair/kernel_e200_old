@@ -1,1 +1,1 @@
-../../../../../../../executive/cvmx-debug-remote.c
+/opt/octeon/executive/cvmx-debug-remote.c

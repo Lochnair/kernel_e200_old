@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-mdio.h
+/opt/octeon/executive/cvmx-mdio.h

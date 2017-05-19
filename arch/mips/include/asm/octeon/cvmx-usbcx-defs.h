@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-usbcx-defs.h
+/opt/octeon/executive/cvmx-usbcx-defs.h

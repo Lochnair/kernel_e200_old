@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-lut-defs.h
+/opt/octeon/executive/cvmx-lut-defs.h

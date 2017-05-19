@@ -1,1 +1,1 @@
-../../../../../../../executive/cvmx-pko.c
+/opt/octeon/executive/cvmx-pko.c

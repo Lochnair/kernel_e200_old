@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-ncb-defs.h
+/opt/octeon/executive/cvmx-ncb-defs.h

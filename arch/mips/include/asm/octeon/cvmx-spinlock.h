@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-spinlock.h
+/opt/octeon/executive/cvmx-spinlock.h

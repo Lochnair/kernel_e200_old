@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-pki.h
+/opt/octeon/executive/cvmx-pki.h

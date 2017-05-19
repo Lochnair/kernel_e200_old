@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-pip-defs.h
+/opt/octeon/executive/cvmx-pip-defs.h

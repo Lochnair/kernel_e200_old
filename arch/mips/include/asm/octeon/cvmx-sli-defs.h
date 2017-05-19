@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-sli-defs.h
+/opt/octeon/executive/cvmx-sli-defs.h

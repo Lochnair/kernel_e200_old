@@ -1,1 +1,1 @@
-../../../../../../../executive/cvmx-l2c.c
+/opt/octeon/executive/cvmx-l2c.c

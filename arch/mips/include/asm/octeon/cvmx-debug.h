@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-debug.h
+/opt/octeon/executive/cvmx-debug.h

@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-swap.h
+/opt/octeon/executive/cvmx-swap.h

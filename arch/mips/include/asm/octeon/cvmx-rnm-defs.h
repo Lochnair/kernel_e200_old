@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-rnm-defs.h
+/opt/octeon/executive/cvmx-rnm-defs.h

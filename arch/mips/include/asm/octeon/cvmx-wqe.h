@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-wqe.h
+/opt/octeon/executive/cvmx-wqe.h

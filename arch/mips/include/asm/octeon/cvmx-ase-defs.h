@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-ase-defs.h
+/opt/octeon/executive/cvmx-ase-defs.h

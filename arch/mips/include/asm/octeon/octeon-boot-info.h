@@ -1,1 +1,1 @@
-../../../../../../../../executive/octeon-boot-info.h
+/opt/octeon/executive/octeon-boot-info.h

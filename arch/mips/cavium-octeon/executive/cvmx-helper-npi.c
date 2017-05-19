@@ -1,1 +1,1 @@
-../../../../../../../executive/cvmx-helper-npi.c
+/opt/octeon/executive/cvmx-helper-npi.c

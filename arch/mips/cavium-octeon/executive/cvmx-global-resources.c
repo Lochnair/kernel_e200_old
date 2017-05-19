@@ -1,1 +1,1 @@
-../../../../../../../executive/cvmx-global-resources.c
+/opt/octeon/executive/cvmx-global-resources.c

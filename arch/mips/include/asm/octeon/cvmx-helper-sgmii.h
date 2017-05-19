@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-helper-sgmii.h
+/opt/octeon/executive/cvmx-helper-sgmii.h

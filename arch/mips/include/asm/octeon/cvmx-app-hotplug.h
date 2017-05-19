@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-app-hotplug.h
+/opt/octeon/executive/cvmx-app-hotplug.h

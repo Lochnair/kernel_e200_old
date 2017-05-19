@@ -1,1 +1,1 @@
-../../../../../../../executive/cvmx-pko3-resources.c
+/opt/octeon/executive/cvmx-pko3-resources.c

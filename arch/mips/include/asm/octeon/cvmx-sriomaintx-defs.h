@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-sriomaintx-defs.h
+/opt/octeon/executive/cvmx-sriomaintx-defs.h

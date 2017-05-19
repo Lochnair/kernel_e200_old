@@ -1,1 +1,1 @@
-../../../../../../../executive/cvmx-helper-jtag.c
+/opt/octeon/executive/cvmx-helper-jtag.c

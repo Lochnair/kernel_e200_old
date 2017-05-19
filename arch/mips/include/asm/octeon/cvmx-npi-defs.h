@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-npi-defs.h
+/opt/octeon/executive/cvmx-npi-defs.h

@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-app-config.h
+/opt/octeon/executive/cvmx-app-config.h

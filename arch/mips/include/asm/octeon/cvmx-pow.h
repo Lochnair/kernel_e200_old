@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-pow.h
+/opt/octeon/executive/cvmx-pow.h

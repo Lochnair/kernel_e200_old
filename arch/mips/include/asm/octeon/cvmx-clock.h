@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-clock.h
+/opt/octeon/executive/cvmx-clock.h

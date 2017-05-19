@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-usb.h
+/opt/octeon/executive/cvmx-usb.h

@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-gserx-defs.h
+/opt/octeon/executive/cvmx-gserx-defs.h

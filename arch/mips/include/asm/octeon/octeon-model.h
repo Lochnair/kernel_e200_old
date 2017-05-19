@@ -1,1 +1,1 @@
-../../../../../../../../executive/octeon-model.h
+/opt/octeon/executive/octeon-model.h

@@ -1,1 +1,1 @@
-../../../../../../../executive/cvmx-debug-uart.c
+/opt/octeon/executive/cvmx-debug-uart.c

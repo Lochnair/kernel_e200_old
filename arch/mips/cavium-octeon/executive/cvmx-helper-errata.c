@@ -1,1 +1,1 @@
-../../../../../../../executive/cvmx-helper-errata.c
+/opt/octeon/executive/cvmx-helper-errata.c

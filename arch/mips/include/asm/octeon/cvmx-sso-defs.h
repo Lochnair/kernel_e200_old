@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-sso-defs.h
+/opt/octeon/executive/cvmx-sso-defs.h

@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-dpi-defs.h
+/opt/octeon/executive/cvmx-dpi-defs.h

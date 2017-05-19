@@ -1,1 +1,1 @@
-../../../../../../../../executive/cvmx-npei-defs.h
+/opt/octeon/executive/cvmx-npei-defs.h

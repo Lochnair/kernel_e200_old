@@ -1,1 +1,1 @@
-../../../../../../../executive/cvmx-qlm-tables.c
+/opt/octeon/executive/cvmx-qlm-tables.c
