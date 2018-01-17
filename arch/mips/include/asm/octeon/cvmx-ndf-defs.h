@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-ndf-defs.h
+../../../../../executive/cvmx-ndf-defs.h

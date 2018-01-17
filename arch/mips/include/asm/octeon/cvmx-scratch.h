@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-scratch.h
+../../../../../executive/cvmx-scratch.h

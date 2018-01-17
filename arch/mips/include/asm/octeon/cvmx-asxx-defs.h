@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-asxx-defs.h
+../../../../../executive/cvmx-asxx-defs.h

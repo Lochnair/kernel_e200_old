@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-l2t-defs.h
+../../../../../executive/cvmx-l2t-defs.h

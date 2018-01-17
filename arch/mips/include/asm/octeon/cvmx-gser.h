@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-gser.h
+../../../../../executive/cvmx-gser.h

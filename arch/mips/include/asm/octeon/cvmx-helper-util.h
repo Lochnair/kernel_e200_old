@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-helper-util.h
+../../../../../executive/cvmx-helper-util.h

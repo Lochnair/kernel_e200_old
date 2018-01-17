@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-nand.c
+../../../../executive/cvmx-nand.c

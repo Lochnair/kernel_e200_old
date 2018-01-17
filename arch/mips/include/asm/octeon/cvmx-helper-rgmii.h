@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-helper-rgmii.h
+../../../../../executive/cvmx-helper-rgmii.h

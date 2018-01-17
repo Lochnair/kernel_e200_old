@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-lapx-defs.h
+../../../../../executive/cvmx-lapx-defs.h

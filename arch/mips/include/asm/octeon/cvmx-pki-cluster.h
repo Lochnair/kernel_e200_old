@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-pki-cluster.h
+../../../../../executive/cvmx-pki-cluster.h

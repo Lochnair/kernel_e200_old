@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-uart.h
+../../../../../executive/cvmx-uart.h

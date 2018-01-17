@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-pcie.h
+../../../../../executive/cvmx-pcie.h

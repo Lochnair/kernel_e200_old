@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-pdm-defs.h
+../../../../../executive/cvmx-pdm-defs.h

@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-helper-loop.c
+../../../../executive/cvmx-helper-loop.c

@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-dma-engine.c
+../../../../executive/cvmx-dma-engine.c

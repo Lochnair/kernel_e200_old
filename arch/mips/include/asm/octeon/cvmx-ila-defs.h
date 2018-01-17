@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-ila-defs.h
+../../../../../executive/cvmx-ila-defs.h

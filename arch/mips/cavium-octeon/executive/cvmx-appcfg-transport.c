@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-appcfg-transport.c
+../../../../executive/cvmx-appcfg-transport.c

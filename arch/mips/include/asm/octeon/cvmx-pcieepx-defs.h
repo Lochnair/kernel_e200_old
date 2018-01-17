@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-pcieepx-defs.h
+../../../../../executive/cvmx-pcieepx-defs.h

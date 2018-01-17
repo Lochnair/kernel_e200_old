@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-twsi.c
+../../../../executive/cvmx-twsi.c

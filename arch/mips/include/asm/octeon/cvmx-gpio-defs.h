@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-gpio-defs.h
+../../../../../executive/cvmx-gpio-defs.h

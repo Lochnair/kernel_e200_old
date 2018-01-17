@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-pko-internal-ports-range.h
+../../../../../executive/cvmx-pko-internal-ports-range.h

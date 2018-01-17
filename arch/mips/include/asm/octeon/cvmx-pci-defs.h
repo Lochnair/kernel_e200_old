@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-pci-defs.h
+../../../../../executive/cvmx-pci-defs.h

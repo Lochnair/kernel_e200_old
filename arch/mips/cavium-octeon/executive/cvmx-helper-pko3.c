@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-helper-pko3.c
+../../../../executive/cvmx-helper-pko3.c

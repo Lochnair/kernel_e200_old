@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-hna-defs.h
+../../../../../executive/cvmx-hna-defs.h

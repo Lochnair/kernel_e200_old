@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-pemx-defs.h
+../../../../../executive/cvmx-pemx-defs.h

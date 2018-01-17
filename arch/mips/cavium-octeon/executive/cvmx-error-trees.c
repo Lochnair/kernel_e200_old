@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-error-trees.c
+../../../../executive/cvmx-error-trees.c

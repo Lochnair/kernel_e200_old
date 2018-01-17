@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-coremask.h
+../../../../../executive/cvmx-coremask.h

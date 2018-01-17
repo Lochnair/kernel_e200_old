@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-qlm.h
+../../../../../executive/cvmx-qlm.h

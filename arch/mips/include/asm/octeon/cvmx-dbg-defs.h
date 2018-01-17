@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-dbg-defs.h
+../../../../../executive/cvmx-dbg-defs.h

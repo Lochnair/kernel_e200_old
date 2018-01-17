@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-ciu-defs.h
+../../../../../executive/cvmx-ciu-defs.h

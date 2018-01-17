@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-oclax-defs.h
+../../../../../executive/cvmx-oclax-defs.h

@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-srio.h
+../../../../../executive/cvmx-srio.h

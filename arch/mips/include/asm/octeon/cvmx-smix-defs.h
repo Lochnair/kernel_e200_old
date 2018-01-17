@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-smix-defs.h
+../../../../../executive/cvmx-smix-defs.h

@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-bootmem.c
+../../../../executive/cvmx-bootmem.c

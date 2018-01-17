@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-pko3-queue.c
+../../../../executive/cvmx-pko3-queue.c

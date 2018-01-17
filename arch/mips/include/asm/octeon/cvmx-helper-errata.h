@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-helper-errata.h
+../../../../../executive/cvmx-helper-errata.h

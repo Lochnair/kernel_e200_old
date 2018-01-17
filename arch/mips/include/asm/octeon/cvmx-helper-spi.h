@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-helper-spi.h
+../../../../../executive/cvmx-helper-spi.h

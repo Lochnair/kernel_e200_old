@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-helper-board.c
+../../../../executive/cvmx-helper-board.c

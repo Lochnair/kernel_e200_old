@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-cmd-queue.h
+../../../../../executive/cvmx-cmd-queue.h

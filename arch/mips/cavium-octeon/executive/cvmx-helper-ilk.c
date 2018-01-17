@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-helper-ilk.c
+../../../../executive/cvmx-helper-ilk.c

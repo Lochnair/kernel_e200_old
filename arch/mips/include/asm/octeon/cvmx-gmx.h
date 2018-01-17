@@ -1,1 +1,1 @@
-/opt/octeon/executive/cvmx-gmx.h
+../../../../../executive/cvmx-gmx.h
